@@ -26,3 +26,17 @@ in our working directory that are NOT staged for the next commit
 git diff HEAD
 # Compares between the head and working directory
 # git diff HEAD lists all changes in the working tree since your last commit
+
+git diff --staged or --cached
+# will list the changes between staging area and our last commit
+
+git diff HEAD [filename]
+git diff --staged [filename]
+# sample: git diff --staged numbers.txt
+
+git diff branch1..branch2
+# sample: git diff main..odd-number
+
+git diff commit1..commit2
+
+git diff HEAD HEAD~1
