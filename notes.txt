@@ -40,3 +40,11 @@ git diff branch1..branch2
 git diff commit1..commit2
 
 git diff HEAD HEAD~1
+
+git stash
+git stash pop - to remove the most recenly stashed changes in your stash and re-apply them to your working copy
+
+git stash list
+git stash apply stash@{2}
+git stash drop stash@{2}
+git stash clear
