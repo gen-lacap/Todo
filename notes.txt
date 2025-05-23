@@ -1,0 +1,28 @@
+Git Commit in details
+
+git log --oneline
+
+git add outline.txt
+git commit —amend
+
+git branch -> shows list of branch
+git branch <name> - to make a new branch based upon the current HEAD
+git switch <branch-name> - to switch to another branch
+
+git commit -a -m “<message>”
+
+git switch -c <branch-name> -> create and switch to this branch
+
+git branch -D <branch-name> -> forcefully delete branch
+
+git branch -m <NEW-branch-name> #switch to the branch you want to rename
+
+git merge 
+
+git diff 
+# Compares Staging Area and Working Directory
+# Without additional options, git diff lists all the changes
+in our working directory that are NOT staged for the next commit
+git diff HEAD
+# Compares between the head and working directory
+# git diff HEAD lists all changes in the working tree since your last commit
