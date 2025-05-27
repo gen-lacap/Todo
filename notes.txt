@@ -112,3 +112,15 @@ If you haven't begun work on your local repo, you can..
 Pushing
 git push <remote> <branch>
 git push origin main
+
+git checkout origin/master
+git switch <origin/branch>
+git fetch <remote> command fetches branches and history from a specific remote repository. It only updates remote tracking branches
+
+git fetch origin would fetch all changes from the origin remote repository
+
+git fetch <remote> <branch>
+
+git pull <remote> <branch>
+
+sample: git pull origin master - would fetch the latest information from the origin's master branch and merge those changes into our current branch
