@@ -1,0 +1,15 @@
+# Study Microsoft Fabric
+
+Challenges:
+    ✔ Organize a Fabric lakehouse using medallion architecture design @started(25-05-30 14:35) @done(25-05-30 22:32) @lasted(7h57m15s)
+    Tomorrow's tasks:
+        ☐ Orchestrate processes and data movement with Microsoft Fabric
+        ☐ Get started with data warehouses in Microsoft Fabri
+        ☐ Load data into a Microsoft Fabric data warehouse
+        ☐ Monitor activities in Microsoft Fabric
+    ☐ Implement continuos integration and continuos delivery (CI/CD) in Microsoft Fabric
+    ☐ Secure data access in Microsoft Fabric
+    ☐ Ingest Data with Dataflows Gen2 in Microsoft Fabric
+    ☐ Get started with Real-Time Intelligence in Microsoft Fabric
+    ☐ Use real-time eventstreams in Microsoft Fabric
+    ☐ Work with real-time data in Microsoft Fabric eventhouse
