@@ -18,7 +18,7 @@ Challenges:
         ✔ Introduction to end-to-end analytics using Microsoft Fabric @started(25-06-15 00:13) @done(25-06-15 00:26) @lasted(13m9s)
         ✔ Get started with Microsoft Fabric Lakehouse @done(25-06-16 17:52)
         ✔ Work with Delta Lake in Microsoft Fabric @started(25-06-16 19:50) @done(25-06-17 20:20) @lasted(1d30m54s)
-        ☐ Organize a Fabric lakehouse using medallion architecture design
+        ✔ Organize a Fabric lakehouse using medallion architecture design @started(25-06-17 20:25) @done(25-06-17 21:23) @lasted(58m56s)
 
     - ** Implement Real-Time Intelligence with Microsoft Fabric **
         ☐ Use real-time eventstreams in Microsoft Fabric
