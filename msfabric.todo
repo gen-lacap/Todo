@@ -12,18 +12,19 @@ Challenges:
         ✔ Ingest data with Dataflows Gen2 in Microsoft Fabric @started(25-06-09 20:09) @done(25-06-09 20:58) @lasted(49m55s)
         ✔ Orchestrate processes and data movement with Microsoft Fabric @started(25-06-10 12:04) @done(25-06-10 12:25) @lasted(21m46s)
         ✔ Use Apache Spark in Microsoft Fabric @started(25-06-10 12:44) @done(25-06-10 13:54) @lasted(1h10m12s)
-        ☐ Get started with Real-Time Intelligence in Microsoft Fabric
        
     - ** Implement a Lakehouse with Microsoft Fabric **
-        ☐ Introduction to end-to-end analytics using Microsoft Fabric
-        ☐ Get started with Microsoft Fabric Lakehouse
-        ☐ Work with Delta Lake in Microsoft Fabric
+    Tomorrow's tasks:
+        ✔ Introduction to end-to-end analytics using Microsoft Fabric @started(25-06-15 00:13) @done(25-06-15 00:26) @lasted(13m9s)
+        ✔ Get started with Microsoft Fabric Lakehouse @done(25-06-16 17:52)
+        ✔ Work with Delta Lake in Microsoft Fabric @started(25-06-16 19:50) @done(25-06-17 20:20) @lasted(1d30m54s)
         ☐ Organize a Fabric lakehouse using medallion architecture design
 
     - ** Implement Real-Time Intelligence with Microsoft Fabric **
         ☐ Use real-time eventstreams in Microsoft Fabric
         ☐ Work with real-time data in Microsoft Fabric eventhouse
         ☐ Create Real-Time Dashboards with Microsoft Fabric
+        ☐ Get started with Real-Time Intelligence in Microsoft Fabric
 
     - ** Implement a Data Warehouse with Microsoft Fabric **
         ☐ Get started with Microsoft Fabric Data Warehouse
