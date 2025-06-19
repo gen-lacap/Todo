@@ -25,7 +25,7 @@ Challenges:
         ✔ Work with real-time data in Microsoft Fabric eventhouse @done(25-06-19 00:35)
         Tomorrow's tasks:
           ☐ Create Real-Time Dashboards with Microsoft Fabric
-          ☐ Get started with Real-Time Intelligence in Microsoft Fabric
+          ✔ Get started with Real-Time Intelligence in Microsoft Fabric @started(25-06-19 11:35) @done(25-06-19 12:00) @lasted(25m1s)
 
     - ** Implement a Data Warehouse with Microsoft Fabric **
         ☐ Get started with Microsoft Fabric Data Warehouse
