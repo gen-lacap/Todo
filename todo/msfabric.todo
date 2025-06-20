@@ -1,0 +1,44 @@
+# Study Microsoft Fabric
+
+Challenges:
+    ✔ Organize a Fabric lakehouse using medallion architecture design @started(25-05-30 14:35) @done(25-05-30 22:32) @lasted(7h57m15s)
+    ✔ Orchestrate processes and data movement with Microsoft Fabric @started(25-05-31 13:29) @done(25-05-31 14:23) @lasted(54m40s)
+     ✔ Get started with data warehouses in Microsoft Fabric @started(25-06-02 19:07) @done(25-06-03 00:16) @lasted(5h9m27s)
+     ✔ Load data into a Microsoft Fabric data warehouse @started(25-06-03 22:18) @done(25-06-03 23:36) @lasted(1h18m36s)
+     ✔ Monitor activities in Microsoft Fabric @started(25-06-04 23:08) @done(25-06-04 23:39) @lasted(31m43s)
+     ✔ Implement continuos integration and continuos delivery (CI/CD) in Microsoft Fabric @started(25-06-06 12:05) @done(25-06-06 14:15) @lasted(2h10m52s)
+
+    - ** Ingest data with Microsoft Fabric **
+        ✔ Ingest data with Dataflows Gen2 in Microsoft Fabric @started(25-06-09 20:09) @done(25-06-09 20:58) @lasted(49m55s)
+        ✔ Orchestrate processes and data movement with Microsoft Fabric @started(25-06-10 12:04) @done(25-06-10 12:25) @lasted(21m46s)
+        ✔ Use Apache Spark in Microsoft Fabric @started(25-06-10 12:44) @done(25-06-10 13:54) @lasted(1h10m12s)
+       
+    - ** Implement a Lakehouse with Microsoft Fabric **
+    Tomorrow's tasks:
+        ✔ Introduction to end-to-end analytics using Microsoft Fabric @started(25-06-15 00:13) @done(25-06-15 00:26) @lasted(13m9s)
+        ✔ Get started with Microsoft Fabric Lakehouse @done(25-06-16 17:52)
+        ✔ Work with Delta Lake in Microsoft Fabric @started(25-06-16 19:50) @done(25-06-17 20:20) @lasted(1d30m54s)
+        ✔ Organize a Fabric lakehouse using medallion architecture design @started(25-06-17 20:25) @done(25-06-17 21:23) @lasted(58m56s)
+
+    - ** Implement Real-Time Intelligence with Microsoft Fabric **
+        ✔ Use real-time eventstreams in Microsoft Fabric @started(25-06-18 21:41) @done(25-06-18 22:21) @lasted(40m40s)
+        ✔ Work with real-time data in Microsoft Fabric eventhouse @done(25-06-19 00:35)
+        Tomorrow's tasks:
+          ✔ Create Real-Time Dashboards with Microsoft Fabric @done(25-06-19 12:40)
+          ✔ Get started with Real-Time Intelligence in Microsoft Fabric @started(25-06-19 11:35) @done(25-06-19 12:00) @lasted(25m1s)
+
+    - ** Implement a Data Warehouse with Microsoft Fabric **
+        ☐ Get started with Microsoft Fabric Data Warehouse
+        ☐ Load data into a Microsoft Fabric data warehouse
+        ✔ Query a data warehouse with Microsoft Fabric @started(25-06-19 14:50) @done(25-06-19 15:18) @lasted(28m15s)
+        ✔ Monitor a Microsoft Fabric data warehouse @started(25-06-19 15:18) @done(25-06-19 17:23) @lasted(2h5m15s)
+        ☐ Secure a Microsoft Fabric data warehouse
+   
+    - ** Manage a Microsoft Fabric environment **
+        ☐ Implement a continuous integration and continuous delivery (CI/CD) in Microsoft Fabric
+        ☐ Monitor activities in Microsoft Fabric
+        ☐ Secure data access in Microsoft Fabric
+        ☐ Administer a Microsoft Fabric environment
+
+     
+   
