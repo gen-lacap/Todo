@@ -1,0 +1,14 @@
+# Azure Data Factory for Data Engineers - Project on Covid19
+
+- ** Section 4: Data Ingestion from Azure Blob **
+    ☐ Module Overview
+    ☐ Copy Activity Overview
+    ☐ Environment Preparation
+    ☐ Naming Standards
+    ☐ Linked Services & Data Sets
+    ☐ Creating ADF Pipeline
+    ☐ Control Flow Activities (1) - Validation Activity
+    ☐ Control Flow Activities (2) - Get Metadata, If Condition, Web activities
+    ☐ Control Flow Activities (3) - Delete activity
+    ☐ ADF Triggers Overview
+    ☐ Creating Event Trigger
