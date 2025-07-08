@@ -1,28 +1,26 @@
 # Study Azure Databricks
 
-      ✔ Plan databricks 
-- ** Section 3: Azure Databricks Overview **
-      ✔ Create Databricks Workspace @done(25-06-21 11:10)
-      ✔ Change default catalog from Unity Catalog to hive metastore @done(25-06-21 11:10)
-
-- ** Section 4: Databricks Cluster
-      ✔ Section Overview @done(25-06-21 11:21)
-      ✔ Azure Databricks Cluster Types @started(25-06-21 11:21) @done(25-06-21 11:30) @lasted(9m6s)
-      ✔ Azure Databricks Config @started(25-06-21 11:30) @done(25-06-21 11:36) @lasted(6m23s)
-      ✔ Create Databricks Cluster @done(25-06-21 18:45)
-
-- ** Section 5: Databricks Notebooks **
-      ✔ Notebooks Introduction @started(25-06-21 18:46) @done(25-06-21 18:48) @lasted(2m43s)
-      ✔ Magic commands @started(25-06-21 18:48) @done(25-06-21 18:54) @lasted(6m52s)
-      ✔ Databricks Utilities @started(25-06-25 15:39) @done(25-06-25 16:01) @lasted(22m17s)
-
- - ** Section 6: Accessing Azure Data Lake from Databricks **
-      ✔ Creating Azure Data Lake Storage Gen2 @done(25-06-27 14:44)
-      ✔ Azure Storage Explorer Overview @started(25-06-27 14:44) @done(25-06-27 14:48) @lasted(4m1s)
-      ✔ Access Azure Data Lake using Access Keys @started(25-06-27 14:48) @done(25-06-27 15:07) @lasted(19m55s)
-      ✔ Access Azure Data Lake using SAS Token @started(25-06-27 15:07) @done(25-06-27 15:21) @lasted(14m24s)
-      ✔ Access Azure Data Lake using Service Principal @done(25-06-27 17:02)
-      ✔ Cluster Scoped Authentication @done(25-06-27 17:02)
-
+- ** Section 7: Securing Access to Azure Data Lake **
+  ✔ Create Azure Key Vault @done(25-06-28 20:18)
+  ✔ Create Secret Scope @done(25-06-28 20:18)
+  ☐ Databricks Secret Utility 
+  ☐ Using secrets to access ADL using notebooks
+  ☐ Using secrets utility in clusters
 
 Archive:
+  ✔ Plan databricks 
+  ✔ Create Databricks Workspace @done(25-06-21 11:10)
+  ✔ Change default catalog from Unity Catalog to hive metastore @done(25-06-21 11:10)
+  ✔ Section Overview @done(25-06-21 11:21)
+  ✔ Azure Databricks Cluster Types @started(25-06-21 11:21) @done(25-06-21 11:30) @lasted(9m6s)
+  ✔ Azure Databricks Config @started(25-06-21 11:30) @done(25-06-21 11:36) @lasted(6m23s)
+  ✔ Create Databricks Cluster @done(25-06-21 18:45)
+  ✔ Notebooks Introduction @started(25-06-21 18:46) @done(25-06-21 18:48) @lasted(2m43s)
+  ✔ Magic commands @started(25-06-21 18:48) @done(25-06-21 18:54) @lasted(6m52s)
+  ✔ Databricks Utilities @started(25-06-25 15:39) @done(25-06-25 16:01) @lasted(22m17s)
+  ✔ Creating Azure Data Lake Storage Gen2 @done(25-06-27 14:44)
+  ✔ Azure Storage Explorer Overview @started(25-06-27 14:44) @done(25-06-27 14:48) @lasted(4m1s)
+  ✔ Access Azure Data Lake using Access Keys @started(25-06-27 14:48) @done(25-06-27 15:07) @lasted(19m55s)
+  ✔ Access Azure Data Lake using SAS Token @started(25-06-27 15:07) @done(25-06-27 15:21) @lasted(14m24s)
+  ✔ Access Azure Data Lake using Service Principal @done(25-06-27 17:02)
+  ✔ Cluster Scoped Authentication @done(25-06-27 17:02)
