@@ -1,14 +1,25 @@
 # Azure Data Factory for Data Engineers - Project on Covid19
 
 - ** Section 4: Data Ingestion from Azure Blob **
+    ✔ Module Overview @done(25-07-08 21:56)
+    ✔ Copy Activity Overview @started(25-07-08 21:56) @done(25-07-08 22:13) @lasted(17m41s)
+    ✔ Environment Preparation @done(25-07-08 22:13)
+    ✔ Naming Standards @started(25-07-08 22:13) @done(25-07-08 22:16) @lasted(3m18s)
+    ✔ Linked Services & Data Sets @started(25-07-08 22:16) @done(25-07-08 22:40) @lasted(24m7s)
+    ✔ Creating ADF Pipeline @done(25-07-08 22:40)
+    ✔ Control Flow Activities (1) - Validation Activity @started(25-07-09 18:45) @done(25-07-09 18:56) @lasted(11m22s)
+    ✔ Control Flow Activities (2) - Get Metadata, If Condition, Web activities @started(25-07-09 18:56) @done(25-07-09 19:30) @lasted(34m18s)
+    ✔ Control Flow Activities (3) - Delete activity @started(25-07-09 19:30) @done(25-07-09 19:36) @lasted(6m15s)
+    ✔ ADF Triggers Overview @started(25-07-09 19:36) @done(25-07-09 19:44) @lasted(8m54s)
+    ✔ Creating Event Trigger @started(25-07-09 19:44) @done(25-07-09 19:57) @lasted(13m31s)
+
+ - ** Section 5: Data Ingestion from HTTP **
     ☐ Module Overview
-    ☐ Copy Activity Overview
-    ☐ Environment Preparation
-    ☐ Naming Standards
-    ☐ Linked Services & Data Sets
-    ☐ Creating ADF Pipeline
-    ☐ Control Flow Activities (1) - Validation Activity
-    ☐ Control Flow Activities (2) - Get Metadata, If Condition, Web activities
-    ☐ Control Flow Activities (3) - Delete activity
-    ☐ ADF Triggers Overview
-    ☐ Creating Event Trigger
+    ☐ Important - Recent changes to ECDC
+    ☐ ECDC Data Overview
+    ☐ Create Pipeline
+    ☐ Pipeline Variables
+    ☐ Pipeline Parameteres & Schedule Trigger
+    ☐ Control Flow Activities
+    ☐ Linked Service Parameters
+    ☐ Metadata Driven Pipeline
