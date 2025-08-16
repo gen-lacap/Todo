@@ -1,0 +1,13 @@
+# Study Azure Databricks
+
+- ** Section 6: Accessing Azure Data Lake from Databricks **
+    ✔ Access Azure Data Lake using Access Keys @done(25-08-16 17:37)
+    ☐ Access Azure Data Lake using SAS Token
+    ☐ Access Azure Data Lake using Service Principal
+
+- ** Section 7: Securing Access to Azure Data Lake
+    ☐ Creating Azure Key Vault
+    ☐ Creating Secret Scope
+    ☐ Databricks Secret Utility 
+    ☐ Using Secrets to Access ADL using Notebooks
+
